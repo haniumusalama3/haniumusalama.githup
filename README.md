@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MK'S SITE</title>
+    <title>HANIUMUSALAMA SITE</title>
         <style>
             <style>
         *{
@@ -89,31 +89,31 @@
     </style>
 </head>
 <body>
-    <h1>Feel free to interact 🙂 and welcomed 🤝I'm Moise Nyarugabo🫡 </h1>
+    <h1>Feel free to interact 🙂 and welcomed 🤝I'm Umusalama Hared 🫡 </h1>
 
     <div class="section">
         <h2>About Me</h2>
-        <p>       Hello! I'm Moise Nyarugabo, a student and aspiring software developer.
+        <p>       Hello! I'm Umusalama Hared, a student and aspiring programming developer.
         I enjoy learning how websites and applications are built and solving
         problems through technology. My current interests include web development,
-        cybersecurity, and software engineering</p>
+        software, websites and Applications</p>
     </div>
 
     <div class="section">
-        <h2>What I'm Learning</h2>
+        <h2>What I'm learning</h2>
         <ul>
             <li>Git and GitHub</li>
             <li>html and css</li>
             <li>JavaScript</li>
             <li>React</li>
-            <li>Cybersecurity Fundamentals</li>
+            <li>software applications</li>
         </ul>
     </div>
     <div class="section">
     <h2>Goals</h2>
     <p>
-        My goal is to become a skilled software developer and cybersecurity
-        professional while building useful projects and contributing to
+        My goal is to become a skilled website developer 
+        professional while building useful facing website to creating artificial intelligence systems 
         open-source communities.
     </p>
     </div>
@@ -125,4 +125,4 @@
         </ul>
     </div>
 </body>
-</html># haniumusalama.githup
+</html>
